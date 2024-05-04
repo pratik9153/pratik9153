@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Pratik Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Pratik Choudhary</h1>
 <h3 align="center">Enthusiastic data science student eager to grow and contribute.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
