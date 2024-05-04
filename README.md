@@ -1,5 +1,4 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNbIE0HT-Qqyb0Y0c3tExDJGndDylOodGWNA8QixSAw&s)](https://github.com/pratik9153)
 
 <h1 align="center">Hi 👋, I'm Pratik Choudhary</h1>
 <h3 align="center">Enthusiastic data science student eager to grow and contribute.</h3>
