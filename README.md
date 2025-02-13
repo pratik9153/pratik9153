@@ -10,7 +10,7 @@
 ---
 
 ### 🔹 About Me
-- 🌱 I’m currently learning **MLOps (DVC, Docker) and Vector Databases (AstraDB)**  
+- 🌱 I’m currently learning **MLOps and Big Data**  
 - 💡 Interested in **Generative AI, Machine Learning, Deep Learning, NLP, and RAG**  
 
 ---
